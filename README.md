@@ -11,6 +11,8 @@ Am Ende müssen Sie Ihr Projekt commiten und pushen. Senden Sie mir den Link in 
 
 Beantworten Sie die folgenden Frage hier direkt im Text: Welche Aufgabe haben cookies in unserer Banking-App?
 
+Cookies haben die Aufgabe Informationen zu Speichern und sie Abrufen zu lassen für den Kunden. Cookies speichern Ihre Daten damit man sich z.B. nicht immer neu Anmelden muss etc..
+
 ## Aufgabe 3
 
 Auf der Seite Hilfe sind vier Fehler eingebaut. Finden und korrigieren Sie die Fehler. Schreiben Sie zu jedem Fehler eine Kommentarzeile, in der Sie schreiben, was Sie korrigiert haben.
@@ -52,3 +54,10 @@ https://www.npmjs.com/package/iban-validator-js
 ## Aufgabe 9 (Nur Klausurschreiber)
 
 Der gewünschte Betrag auf der Seite Geldanlegen soll auf Kundenwunsch auf das neue Konto eingezahlt werden. Stellen Sie dem Kunden also die Frage, ob er den Betrag direkt auf das Konto einzahlen will. Der Kunde könnte in einer weiteren Textbox nach "ja" oder "nein" gefragt werden, was dann im Falle von "ja" dazu führt, dass bei der Rückkehr zur Kontenübersicht der neue Betrag (also Anfangssaldo + Betrag aus Geldanlegen) angezeigt wird.
+
+
+Aufgabe 10 passkeys
+Warum sind Passkeys besser als die Kombination aus Benutzernamen und Kennwort?
+
+Bei einem Passkey sind die Informationen zum Anmelden auf einem Externen Gerät gespeichert und können direkt Abgerufen werden und müssen nicht immer
+wieder eingegeben werden. Das heißt dass ein Passkey besser geschützt ist und falls man seine login daten vergessen hat hilft das auch.
